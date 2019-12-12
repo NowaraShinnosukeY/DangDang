@@ -79,7 +79,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'DangDang',
-        'HOST': '10.103.86.74',
+        'HOST': '192.168.1.39',
         # 'HOST': 'localhost',
         'PORT': 3306,
         'USER': 'root',
